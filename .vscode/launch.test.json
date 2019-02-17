@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "BatchTaskletApplication-1",
+                "projectName": "BatchTaskletApplication-1",
+                "workingDirectory": "/Users/makotooda/ws/batchtaskletapplication-1",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "BatchTaskletApplication-1",
+                "projectName": "BatchTaskletApplication-1",
+                "workingDirectory": "/Users/makotooda/ws/batchtaskletapplication-1",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

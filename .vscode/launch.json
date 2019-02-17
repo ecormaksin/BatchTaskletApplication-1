@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BatchTaskletApplication",
+            "request": "launch",
+            "mainClass": "com.tasklet.batch.BatchTaskletApplication",
+            "projectName": "BatchTaskletApplication-1"
+        }
+    ]
+}
